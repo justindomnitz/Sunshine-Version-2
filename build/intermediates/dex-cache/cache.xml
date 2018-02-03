@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/justin.domnitz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/justin.domnitz/Dropbox/Chick-fil-A/github/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-03479509bba5cc65cc71327dda89222d34123e6c.jar" />
+    </item>
+    <item
+        jar="/Users/justin.domnitz/Dropbox/Chick-fil-A/github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/justin.domnitz/Dropbox/Chick-fil-A/github/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/classes-b00f4f1d0a9d6022dddb2a48ccd5ba808c5f0d4a.jar" />
+    </item>
+    <item
+        jar="/Users/justin.domnitz/Dropbox/Chick-fil-A/github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/justin.domnitz/Dropbox/Chick-fil-A/github/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/classes-975b867fc51c57508eabb0817db3cdd49b0e798b.jar" />
+    </item>
+    <item
+        jar="/Users/justin.domnitz/Dropbox/Chick-fil-A/github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/justin.domnitz/Dropbox/Chick-fil-A/github/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-7ba5e7dcddfefd950abd6574cc6915a5c79cf1c8.jar" />
+    </item>
+
+</items>
