@@ -1,3 +1,10 @@
 
 gradle/.DS_Store
 app/.DS_Store
+*.bin
+*.lock
+*.rawproto
+*.json
+*.xml
+.DS_Store
+*.properties

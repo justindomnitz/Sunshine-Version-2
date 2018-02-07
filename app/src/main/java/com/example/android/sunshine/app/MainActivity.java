@@ -21,8 +21,11 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ArrayAdapter;
 
 import com.example.android.sunshine.app.sync.SunshineSyncAdapter;
+
+import java.util.Arrays;
 
 public class MainActivity extends ActionBarActivity implements ForecastFragment.Callback {
 
