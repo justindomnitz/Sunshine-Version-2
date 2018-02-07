@@ -131,6 +131,25 @@ public class ForecastFragment extends Fragment implements LoaderManager.LoaderCa
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
+        /*
+        String[] forecastArray = {
+                "Sun - Sunny - 88/63",
+                "Mon - Sunny - 88/63",
+                "Tue - Sunny - 88/63",
+                "Wed - Sunny - 88/63",
+                "Thu - Sunny - 88/63" };
+
+        List<String> weekForecast = new ArrayList<String> (
+                Arrays.asList(forecastArray));
+
+        mForcastAdapter =
+                new ArrayAdapter<String>(
+                        getActivity(),
+                        R.layout.list_item_forecast,
+                        R.id.list_item_forecast_textview,
+                        weekForecast);
+        */
+
         // The ForecastAdapter will take data from a source and
         // use it to populate the ListView it's attached to.
         mForecastAdapter = new ForecastAdapter(getActivity(), null, 0);
