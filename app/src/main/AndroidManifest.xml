@@ -73,6 +73,14 @@
                 android:name="android.content.SyncAdapter"
                 android:resource="@xml/syncadapter" />
         </service>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="fafdc76fb5ff6931a10431a80d10a56fc2436003"
+            />
+
     </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>
